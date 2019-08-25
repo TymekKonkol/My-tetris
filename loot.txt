@@ -1,0 +1,24 @@
+Zasady ep/gp
+fragmenty zajete reszta na roll, dziekuje
+
+
+Zasady ep/gp
+
+STAWKA_ZA_BOSA = naxx - 50 (klata na naxxie jest warta ok. 150gp, na tocu mielismy 100ep za bosa a klata kosztowala 300gp)
+RECURRING = 25/0.5h
+BŁOGOSŁAWIEŃSTWO_GUTTSA = 250ep
+
+1. Raid zapisany na hh:45 o hh:50 leci STAWKA_ZA_BOSA ep dla ludzi w party. (mozna tylko dla ludzi zapisanym na yes, ze wzgledu na zasade nr 3)
+2. Osoba z ranga karny rosiek dostaje 50% ep (albo wogle ich nie dostaje)
+3. Za nagminne zapisywanie sie na tak, a nie przychodzenie (2 tygodnie z rzedu, lub dosyc czesto wyrywkowo) - 3*STAWKA_ZA_BOSA gp - po cos jest opcja tentative
+4. Za częste powtarzanie tych samych błędów 150gp
+5. Gdy taktyka jest czesto psuta przez pojedyncze osoby (tak jak przy icehowlu), wprowadzamy stan wojny, kazdy blad karany 3*STAWKA_ZA_BOSA gp.
+6. Za niewpłacenie składki(musimy jakas wprowadzic) - STAWKA_ZA_BOSA gp
+7. Za wpłacenie ponad składkowe (matsy do encha/jc itd. - ilosc trzeba ustalic) - STAWKA_ZA_BOSA ep / raz na tydzien
+8. Lethery itp. rozdawane zgodnie z odpowiadajacymi statami dla klasy.
+9. Councill w postaci oficerki na trinki, bronie i marki z 25 (wyjatek trophy)
+10. Nowe osoby 1 tydzien bez loota / Startowe 200gp - "po co wybierac, najlepiej zabrac obie"
+11. (Jak już będzie 25) Za progress na 10 wyjatkowych bosow (last aktualnego contentu, jakies 3k,2k,0k, mimek hm itp.) dodatkowe 2*STAWKA_ZA_BOSA ep (jak dluuuugo bedzie progresowany to nawet wiecej)
+12. Jak już wygrałeś item z ep/gp i jednak go nie chcesz to mozesz oddac, ale gp nie beda cofane.
+13. Notoryczne afczenie - 2*STAWKA_ZA_BOSA gp. 
+14. Randowmowe BŁOGOSŁAWIEŃSTWO_GUTTSA
